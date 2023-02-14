@@ -1,3 +1,6 @@
+В данной строке вставить после каждого символа 'a' символ 'b'.
+
+
 #include <iostream>
 #include <regex>
 #include <string>
