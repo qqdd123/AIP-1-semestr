@@ -1,3 +1,6 @@
+Удалить из строки первые буквы слов. (Пример. Входная строка: Crystal Method. Результат: rystal ethod).
+
+
 #include <iostream>
 #include <string> 
 using namespace std;
